@@ -1,2 +1,3 @@
 # FlupEx
-A new DAW for easy things ig...
+
+A brief description of the FlupEx project.
